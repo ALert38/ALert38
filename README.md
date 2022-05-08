@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pavel Erohin 
 - 👀 I’m interested in volleyball 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pavelerohin6@gmail.com
 
 <!---
